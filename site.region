@@ -149,7 +149,7 @@
             {.or}
               <section class="Main-content" data-content-field="main-content">
                 {squarespace.main-content}
-                <p>Hello, World!</p>
+                <p>Hello, Worldddd</p>
               </section>
             {.end}
           </main>
